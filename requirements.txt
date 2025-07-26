@@ -1,0 +1,11 @@
+openai
+whisper
+pyttsx3
+sounddevice
+scipy
+speechrecognition
+rich
+dotenv
+
+# ffmpeg is required for audio processing
+# portaudio19-dev is required for sounddevice
